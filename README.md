@@ -61,7 +61,7 @@ docker build -t <my-tag>
 
 # run this every time you want to start the server
 docker run -i -p 4000:4000 -v <absolute-path-to-project>:/home/user/src \
-<my-tag> serve -H 0.0.0.0
+<my-tag> serve --watch -H 0.0.0.0
 ```
 
 **Pro tip:**
