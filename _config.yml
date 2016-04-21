@@ -3,7 +3,7 @@ title: JKeel
 email: contact@jkeel.io
 description: Tune your sensation
 baseurl: '/'      # the subpath of your site, e.g. /blog/
-host: 'devwww.jkeel.io' # the base hostname & protocol for your site
+host: 'www.jkeel.io' # the base hostname & protocol for your site
 port: 80 
 phoxygen_image: /img/jkeel-logo.png
 
