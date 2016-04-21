@@ -1,24 +1,24 @@
 # Site settings
-title: JKeel
-email: contact@jkeel.io
+title: JKEEL
+email: contact@JKEEL.io
 description: Tune your sensation
 baseurl: '/'      # the subpath of your site, e.g. /blog/
-host: 'www.jkeel.io' # the base hostname & protocol for your site
+host: 'www.JKEEL.io' # the base hostname & protocol for your site
 port: 80 
-phoxygen_image: /img/jkeel-logo.png
+phoxygen_image: /img/JKEEL-logo.png
 
 # User setting
-owner: Jkeel
-email: contact@jkeel.io
-twitter_username:  jkeelfins 
-github_username:  jkeelfins 
-facebook_username: Jkeelfins
-linkedin_username: jkeel
+owner: JKEEL
+email: contact@JKEEL.io
+twitter_username:  JKEELfins 
+github_username:  JKEELfins 
+facebook_username: JKEELfins
+linkedin_username: JKEEL
 address:
   - line: 15 Boulevard Marius Thomas
   - line: F-13007 Marseille
 telephone: +33633184844
-copyright: Jkeel
+copyright: JKEEL
 
 # API settings
 google_api_key: AIzaSyBQR3mbhcM2LmwuHJWGLT7bGI36exTrOd0
