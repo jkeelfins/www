@@ -6,7 +6,7 @@ We started from the Jekyll implementation of the [Stylish
 Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 template by [Start Bootstrap](http://startbootstrap.com/).
 
-See the site in action at http://www.jkeel.io/
+See the site in action at http://www.JKEEL.io/
 
 ## Dev Workflow
 
